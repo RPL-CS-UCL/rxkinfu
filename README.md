@@ -32,6 +32,11 @@ The package is based on two papers:
 
    * For instance, installing OpenNI2 on ROS Kinetic: `> sudo apt-get install ros-kinetic-openni2-*`
 
+### Pre-Installation
+~~~~
+> sudo apt install nvidia-cuda-toolkit
+~~~~
+
 ### Installation
 ~~~~
 > mkdir rxkinfu && cd rxkinfu && mkdir src && cd src
