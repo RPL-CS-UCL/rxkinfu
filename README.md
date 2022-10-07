@@ -1,6 +1,7 @@
 # rxKinFu: Moving Volume KinectFusion for 3D Perception and Robotics
 #### Authors: Dimitrios Kanoulas (d.kanoulas@ucl.ac.uk)
 #### Version: 1.2.0
+#### System: Ubuntu 20.04.1 (October 2022)
 #### Author's website: https://dkanou.github.io/
 
 [![alt text](images/rxkinfu.png)](https://youtu.be/FozLfHGv1D0)
@@ -21,20 +22,20 @@ This includes two main sub-folders (and one auxiliary sub-folders); the rxKinFu 
 3. **iamges:** main rxkinfu images
 
 ### Publications
-The package is based on two papers:
+The package is based on:
 
 1. "**rxKinFu: Moving Volume KinectFusion for 3D Perception and Robotics**", Dimitrios Kanoulas, Nikos G. Tsagarakis, and Marsette Vona, IEEE/RAS International Conference on Humanoid Robots (Humanoids), 2018.
-
-2. "**Moving Volume KinectFusion**", Henry Roth, Marsette Vona, 2012.
 
 ### Requirements
 1. [OpenNI](http://wiki.ros.org/openni_launch)/[OpenNI2](http://wiki.ros.org/openni2_launch) or a similar range sensor driver.
 
    * For instance, installing OpenNI2 on ROS Kinetic: `> sudo apt-get install ros-kinetic-openni2-*`
+2. NVIDIA-SMI 470.141.03   Driver Version: 470.141.03   CUDA Version: 11.4
 
 ### Pre-Installation
 ~~~~
-> sudo apt install nvidia-cuda-toolkit
+> sudo apt install nvidia-cuda-toolkit (version)
+>
 ~~~~
 
 ### Installation
