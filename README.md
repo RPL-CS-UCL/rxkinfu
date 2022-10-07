@@ -1,6 +1,6 @@
 # rxKinFu: Moving Volume KinectFusion for 3D Perception and Robotics
-#### Authors: Dimitrios Kanoulas (Dimitrios.Kanoulas AT iit AT it) and Marsette Vona
-#### Version: 1.1.0
+#### Authors: Dimitrios Kanoulas (d.kanoulas@ucl.ac.uk)
+#### Version: 1.2.0
 #### Author's website: https://dkanou.github.io/
 
 [![alt text](images/rxkinfu.png)](https://youtu.be/FozLfHGv1D0)
